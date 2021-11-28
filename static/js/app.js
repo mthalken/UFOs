@@ -13,7 +13,7 @@ function buildTable(data) {
     data.forEach((dataRow) => {
 
         // add a row to the table 
-        let row = tbody.appendl("tr");
+        let row = tbody.append("tr");
 
         // loop through each dataRow and add to table
         Object.values(dataRow).forEach((val) => {
@@ -30,7 +30,7 @@ function buildTable(data) {
 function handleClick() {
 
     // grab the datetime from the filter
-    let date = d3.select("#datatime").property("value");
+    let date = d3.select("#datetime").property("value");
     let filteredData = tableData;
     
     // use the date to filter the data
