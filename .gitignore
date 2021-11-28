@@ -1,5 +1,6 @@
 # files to ignore
 data.js
+rf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
