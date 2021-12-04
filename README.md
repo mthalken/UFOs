@@ -10,12 +10,12 @@
 ## Resources
 - Software: HTML, CSS, Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0, Visual Studio Code 1.60.2
 - Please see the refactored code here:
-    - [app.py](https://github.com/mthalken/UFOs/blob/main/static/js/app.js).
+    - [app.py](https://github.com/mthalken/UFOs/blob/main/static/js/app.js)
     - [index.html](https://github.com/mthalken/UFOs/blob/main/index.html)
 - Please see the preliminary code [here](https://github.com/mthalken/UFOs/blob/main/static/js/app_1.js).
 
 ## Results 
-![png](linhttps://github.com/mthalken/UFOs/blob/main/static/images/website1.pngk)
+![png](https://github.com/mthalken/UFOs/blob/main/static/images/website1.png)
 ![png](https://github.com/mthalken/UFOs/blob/main/static/images/website2.png)
 
 Through this website you can filter the UFO sightings by date, city, state, country, and/or shape. 
