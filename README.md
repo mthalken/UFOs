@@ -22,7 +22,7 @@ Through this website you can filter the UFO sightings by date, city, state, coun
 
 ## Summary
 Things that can be improved on for this project are:
-    - making the page more dynamic by adding different links and pages to further information and content.
-    - Edit the table so the city, state, and country attributes are capitalized. 
-    - Add a comment section or communication section so people who view the page can connect to add more benefit to returning to the site. 
+- making the page more dynamic by adding different links and pages to further information and content.
+- Edit the table so the city, state, and country attributes are capitalized. 
+- Add a comment section or communication section so people who view the page can connect to add more benefit to returning to the site. 
 
